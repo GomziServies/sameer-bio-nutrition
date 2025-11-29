@@ -1197,6 +1197,9 @@ label {
 .mobile-menu .social-links li.youtube a:hover {
     background: #c4302b;
 }
+.mobile-menu .social-links li.whatsapp a:hover {
+    background: #1fc546;
+}
 .menu-area .mobile-nav-toggler {
     position: relative;
     float: right;
@@ -6642,7 +6645,7 @@ label {
     background: #ff5733;
 }
 
-/* Footer Styles for Smart Fit India */
+/* Footer Styles for BioKinetic */
 .footer-style-two {
     position: relative;
     width: 100%;
